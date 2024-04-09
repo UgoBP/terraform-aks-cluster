@@ -1,3 +1,7 @@
+# sp files
+sp.terra.json
+terraform.tfvars
+
 # Local .terraform directories
 **/.terraform/*
 
