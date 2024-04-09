@@ -1,6 +1,7 @@
 # sp files
 sp.terra.json
 terraform.tfvars
+terraform-2.tfvars
 
 # Local .terraform directories
 **/.terraform/*
