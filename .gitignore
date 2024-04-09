@@ -2,6 +2,7 @@
 sp.terra.json
 terraform.tfvars
 terraform-2.tfvars
+.terraform.lock.hcl
 
 # Local .terraform directories
 **/.terraform/*
